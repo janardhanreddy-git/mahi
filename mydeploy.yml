@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: myjavaapp-container
-        image: maha4iac/mydevopsapp:2
+        image: janardhan5857/jagan
         ports:
         - containerPort: 8080
         resources:
